@@ -22,7 +22,7 @@
 
 /* _____________ Your Code Here _____________ */
 
-type MyAwaited<T extends PromiseLike<unknown>> = T extends PromiseLike<infer R>
+type MyAwaited<T extends PromiseLike<any>> = T extends PromiseLike<infer R>
   ? R extends PromiseLike<unknown>
     ? MyAwaited<R>
     : R
