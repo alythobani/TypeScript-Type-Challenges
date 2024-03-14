@@ -1,3 +1,22 @@
 {
-  "cSpell.words": ["Strs"]
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter",
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+      "source.organizeImports": "explicit"
+    },
+  },
+  "black-formatter.args": ["--preview"],
+  "pylint.args": [
+    "--disable=missing-function-docstring",
+    "--disable=missing-class-docstring",
+    "--disable=missing-module-docstring"
+  ],
+  "isort.args": ["--profile", "black"],
+  "python.analysis.typeCheckingMode": "basic",
+  "cSpell.words": ["Strs", "pyperclip"],
+  "editor.rulers": [80, 100],
+  "workbench.colorCustomizations": {
+    "editorRuler.foreground": "#0090ea1e"
+  },
 }
