@@ -128,9 +128,10 @@ This repository contains solutions I wrote for the purposes of fun and learning 
 
 <!-- HARD START -->
 
-| #   | Challenge                           | Solution                                    |
-| --- | ----------------------------------- | ------------------------------------------- |
-| 6   | [Simple Vue](https://tsch.js.org/6) | [6-simple-vue.ts](src/hard/6-simple-vue.ts) |
+| #   | Challenge                            | Solution                                      |
+| --- | ------------------------------------ | --------------------------------------------- |
+| 6   | [Simple Vue](https://tsch.js.org/6)  | [6-simple-vue.ts](src/hard/6-simple-vue.ts)   |
+| 17  | [Currying 1](https://tsch.js.org/17) | [17-currying-1.ts](src/hard/17-currying-1.ts) |
 
 <!-- HARD END -->
 
