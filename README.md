@@ -128,10 +128,12 @@ This repository contains solutions I wrote for the purposes of fun and learning 
 
 <!-- HARD START -->
 
-| #   | Challenge                            | Solution                                      |
-| --- | ------------------------------------ | --------------------------------------------- |
-| 6   | [Simple Vue](https://tsch.js.org/6)  | [6-simple-vue.ts](src/hard/6-simple-vue.ts)   |
-| 17  | [Currying 1](https://tsch.js.org/17) | [17-currying-1.ts](src/hard/17-currying-1.ts) |
+| #   | Challenge                                       | Solution                                                            |
+| --- | ----------------------------------------------- | ------------------------------------------------------------------- |
+| 6   | [Simple Vue](https://tsch.js.org/6)             | [6-simple-vue.ts](src/hard/6-simple-vue.ts)                         |
+| 17  | [Currying 1](https://tsch.js.org/17)            | [17-currying-1.ts](src/hard/17-currying-1.ts)                       |
+| 55  | [Union To Intersection](https://tsch.js.org/55) | [55-union-to-intersection.ts](src/hard/55-union-to-intersection.ts) |
+| 57  | [Get Required](https://tsch.js.org/57)          | [57-get-required.ts](src/hard/57-get-required.ts)                   |
 
 <!-- HARD END -->
 
