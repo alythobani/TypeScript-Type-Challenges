@@ -13,6 +13,8 @@ This repository contains solutions I wrote for the purposes of fun and learning 
 
 ### Easy
 
+<!-- EASY START -->
+
 | #    | Challenge                                 | Solution                                                |
 | ---- | ----------------------------------------- | ------------------------------------------------------- |
 | 4    | [Pick](https://tsch.js.org/4)             | [4-pick.ts](src/easy/4-pick.ts)                         |
@@ -29,7 +31,11 @@ This repository contains solutions I wrote for the purposes of fun and learning 
 | 3060 | [Unshift](https://tsch.js.org/3060)       | [3060-unshift.ts](src/easy/3060-unshift.ts)             |
 | 3312 | [Parameters](https://tsch.js.org/3312)    | [3312-parameters.ts](src/easy/3312-parameters.ts)       |
 
+<!-- EASY END -->
+
 ### Medium
+
+<!-- MEDIUM START -->
 
 | #     | Challenge                                              | Solution                                                                            |
 | ----- | ------------------------------------------------------ | ----------------------------------------------------------------------------------- |
@@ -116,11 +122,17 @@ This repository contains solutions I wrote for the purposes of fun and learning 
 | 26401 | [Json Schema To Typescript](https://tsch.js.org/26401) | [26401-json-schema-to-typescript.ts](src/medium/26401-json-schema-to-typescript.ts) |
 | 27133 | [Square](https://tsch.js.org/27133)                    | [27133-square.ts](src/medium/27133-square.ts)                                       |
 
+<!-- MEDIUM END -->
+
 ### Hard
 
-| #   | Challenge | Solution |
-| --- | --------- | -------- |
-| 1   | TBD       | TBD      |
+<!-- HARD START -->
+
+| #   | Challenge                           | Solution                                    |
+| --- | ----------------------------------- | ------------------------------------------- |
+| 6   | [Simple Vue](https://tsch.js.org/6) | [6-simple-vue.ts](src/hard/6-simple-vue.ts) |
+
+<!-- HARD END -->
 
 ## License
 

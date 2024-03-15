@@ -4,11 +4,14 @@
     "editor.formatOnSave": true,
     "editor.codeActionsOnSave": {
       "source.organizeImports": "explicit"
-    },
+    }
   },
-  "[typescript]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode",
-    "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.tabSize": 2,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit",
+    "source.organizeImports": "explicit"
   },
   "black-formatter.args": ["--preview"],
   "pylint.args": [
@@ -18,14 +21,10 @@
   ],
   "isort.args": ["--profile", "black"],
   "python.analysis.typeCheckingMode": "basic",
-  "cSpell.words": [
-    "clipboardy",
-    "pyperclip",
-    "Strs"
-  ],
+  "cSpell.words": ["clipboardy", "pyperclip", "Strs"],
   "editor.rulers": [80, 100],
   "workbench.colorCustomizations": {
     "editorRuler.foreground": "#0090ea1e"
   },
-  "typescript.tsdk": "node_modules/typescript/lib",
+  "typescript.tsdk": "node_modules/typescript/lib"
 }

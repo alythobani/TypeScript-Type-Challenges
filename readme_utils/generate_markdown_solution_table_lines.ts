@@ -2,16 +2,16 @@ import clipboard from "clipboardy";
 
 const SOLUTION_FILE_NAME_REGEX = /^(\d+)-(.+)\.ts$/;
 
-type Challenge = {
+export type Challenge = {
   number: number;
   title: string;
   solution_file_name: string;
   solution_file_path: string;
 };
 
-type Difficulty = "easy" | "medium" | "hard";
+export type Difficulty = "easy" | "medium" | "hard";
 
-function get_sorted_markdown_solution_table_lines(
+export function get_sorted_markdown_solution_table_lines(
   solution_file_names_str: string,
   difficulty: Difficulty = "easy"
 ) {

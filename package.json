@@ -1,11 +1,14 @@
 {
   "type": "module",
   "devDependencies": {
+    "@types/node": "^20.11.27",
     "clipboardy": "^4.0.0",
+    "ts-node": "^10.9.2",
     "typescript": "^5.4.2"
   },
   "scripts": {
     "compile": "tsc -p ./",
-    "watch": "tsc -watch -p ./"
+    "watch": "tsc -watch -p ./",
+    "update-readme": "ts-node-esm ./readme_utils/update_readme_solution_tables.ts"
   }
 }
