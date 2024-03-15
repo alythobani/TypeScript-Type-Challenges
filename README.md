@@ -9,7 +9,6 @@ This repository contains solutions I wrote for the purposes of fun and learning 
     - [Hard](#hard)
   - [License](#license)
 
-
 ## Challenge/Solution Tables
 
 ### Easy
@@ -31,6 +30,7 @@ This repository contains solutions I wrote for the purposes of fun and learning 
 | 3312 | [Parameters](https://tsch.js.org/3312)    | [3312-parameters.ts](src/easy/3312-parameters.ts)       |
 
 ### Medium
+
 | #     | Challenge                                              | Solution                                                                            |
 | ----- | ------------------------------------------------------ | ----------------------------------------------------------------------------------- |
 | 2     | [Get Return Type](https://tsch.js.org/2)               | [2-get-return-type.ts](src/medium/2-get-return-type.ts)                             |
@@ -116,13 +116,11 @@ This repository contains solutions I wrote for the purposes of fun and learning 
 | 26401 | [Json Schema To Typescript](https://tsch.js.org/26401) | [26401-json-schema-to-typescript.ts](src/medium/26401-json-schema-to-typescript.ts) |
 | 27133 | [Square](https://tsch.js.org/27133)                    | [27133-square.ts](src/medium/27133-square.ts)                                       |
 
-
 ### Hard
 
 | #   | Challenge | Solution |
 | --- | --------- | -------- |
 | 1   | TBD       | TBD      |
-
 
 ## License
 
