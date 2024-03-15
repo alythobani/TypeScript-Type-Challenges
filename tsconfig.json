@@ -1,14 +1,18 @@
 {
   "compilerOptions": {
     "target": "ES2015",
-    "module": "commonjs",
+    "module": "NodeNext",
     "strict": true,
     "esModuleInterop": true,
     "skipLibCheck": true,
     "forceConsistentCasingInFileNames": true,
-    "baseUrl": "src"
+    "baseUrl": ".",
+    "paths": {
+      "utils": ["src/utils.d.ts"],
+    },
+    "outDir": "dist",
   },
   "$schema": "https://json.schemastore.org/tsconfig",
   "display": "Recommended",
-  "include": ["src"]
+  "include": ["src", "readme_utils"],
 }

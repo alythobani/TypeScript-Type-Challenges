@@ -18,9 +18,14 @@
   ],
   "isort.args": ["--profile", "black"],
   "python.analysis.typeCheckingMode": "basic",
-  "cSpell.words": ["Strs", "pyperclip"],
+  "cSpell.words": [
+    "clipboardy",
+    "pyperclip",
+    "Strs"
+  ],
   "editor.rulers": [80, 100],
   "workbench.colorCustomizations": {
     "editorRuler.foreground": "#0090ea1e"
   },
+  "typescript.tsdk": "node_modules/typescript/lib",
 }

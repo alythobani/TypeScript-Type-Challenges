@@ -1,0 +1,11 @@
+{
+  "type": "module",
+  "devDependencies": {
+    "clipboardy": "^4.0.0",
+    "typescript": "^5.4.2"
+  },
+  "scripts": {
+    "compile": "tsc -p ./",
+    "watch": "tsc -watch -p ./"
+  }
+}

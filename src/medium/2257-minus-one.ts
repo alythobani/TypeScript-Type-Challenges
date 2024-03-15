@@ -22,10 +22,9 @@
 // Note: Does not work for numbers that are too high (TS stops the deep recursion) or negatives (which the question said shouldn't
 // happen anyway).
 
-type MinusOne<T extends number, A extends unknown[] = []> = T extends [
-  ...A,
-  1
-]["length"]
+type MinusOne<T extends number, A extends unknown[] = []> = T extends 0
+  ? -1
+  : T extends [...A, 1]["length"]
   ? A["length"]
   : MinusOne<T, [...A, 1]>;
 
@@ -60,8 +59,10 @@ type cases = [
   Expect<Equal<MinusOne<55>, 54>>,
   Expect<Equal<MinusOne<3>, 2>>,
   Expect<Equal<MinusOne<100>, 99>>,
+  // @ts-expect-error
   Expect<Equal<MinusOne<1101>, 1100>>,
   Expect<Equal<MinusOne<0>, -1>>,
+  // @ts-expect-error
   Expect<Equal<MinusOne<9_007_199_254_740_992>, 9_007_199_254_740_991>>
 ];
 
