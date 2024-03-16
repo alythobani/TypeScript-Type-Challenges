@@ -141,6 +141,7 @@ This repository contains solutions I wrote for the purposes of fun and learning 
 | 114 | [Camel Case](https://tsch.js.org/114)           | [114-camel-case.ts](src/hard/114-camel-case.ts)                     |
 | 147 | [C Printf Parser](https://tsch.js.org/147)      | [147-c-printf-parser.ts](src/hard/147-c-printf-parser.ts)           |
 | 213 | [Vue Basic Props](https://tsch.js.org/213)      | [213-vue-basic-props.ts](src/hard/213-vue-basic-props.ts)           |
+| 223 | [Is Any](https://tsch.js.org/223)               | [223-is-any.ts](src/hard/223-is-any.ts)                             |
 
 <!-- HARD END -->
 
