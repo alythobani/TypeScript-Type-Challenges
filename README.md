@@ -143,6 +143,9 @@ This repository contains solutions I wrote for the purposes of fun and learning 
 | 213 | [Vue Basic Props](https://tsch.js.org/213)      | [213-vue-basic-props.ts](src/hard/213-vue-basic-props.ts)           |
 | 223 | [Is Any](https://tsch.js.org/223)               | [223-is-any.ts](src/hard/223-is-any.ts)                             |
 | 270 | [Typed Get](https://tsch.js.org/270)            | [270-typed-get.ts](src/hard/270-typed-get.ts)                       |
+| 300 | [String To Number](https://tsch.js.org/300)     | [300-string-to-number.ts](src/hard/300-string-to-number.ts)         |
+| 399 | [Tuple Filter](https://tsch.js.org/399)         | [399-tuple-filter.ts](src/hard/399-tuple-filter.ts)                 |
+| 472 | [Tuple To Enum Object](https://tsch.js.org/472) | [472-tuple-to-enum-object.ts](src/hard/472-tuple-to-enum-object.ts) |
 
 <!-- HARD END -->
 
