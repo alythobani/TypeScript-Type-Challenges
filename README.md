@@ -134,6 +134,10 @@ This repository contains solutions I wrote for the purposes of fun and learning 
 | 17  | [Currying 1](https://tsch.js.org/17)            | [17-currying-1.ts](src/hard/17-currying-1.ts)                       |
 | 55  | [Union To Intersection](https://tsch.js.org/55) | [55-union-to-intersection.ts](src/hard/55-union-to-intersection.ts) |
 | 57  | [Get Required](https://tsch.js.org/57)          | [57-get-required.ts](src/hard/57-get-required.ts)                   |
+| 59  | [Get Optional](https://tsch.js.org/59)          | [59-get-optional.ts](src/hard/59-get-optional.ts)                   |
+| 89  | [Required Keys](https://tsch.js.org/89)         | [89-required-keys.ts](src/hard/89-required-keys.ts)                 |
+| 90  | [Optional Keys](https://tsch.js.org/90)         | [90-optional-keys.ts](src/hard/90-optional-keys.ts)                 |
+| 112 | [Capitalize Words](https://tsch.js.org/112)     | [112-capitalize-words.ts](src/hard/112-capitalize-words.ts)         |
 
 <!-- HARD END -->
 
