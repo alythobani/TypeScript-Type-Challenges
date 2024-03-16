@@ -139,6 +139,7 @@ This repository contains solutions I wrote for the purposes of fun and learning 
 | 90  | [Optional Keys](https://tsch.js.org/90)         | [90-optional-keys.ts](src/hard/90-optional-keys.ts)                 |
 | 112 | [Capitalize Words](https://tsch.js.org/112)     | [112-capitalize-words.ts](src/hard/112-capitalize-words.ts)         |
 | 114 | [Camel Case](https://tsch.js.org/114)           | [114-camel-case.ts](src/hard/114-camel-case.ts)                     |
+| 147 | [C Printf Parser](https://tsch.js.org/147)      | [147-c-printf-parser.ts](src/hard/147-c-printf-parser.ts)           |
 
 <!-- HARD END -->
 
