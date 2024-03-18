@@ -128,24 +128,26 @@ This repository contains solutions I wrote for the purposes of fun and learning 
 
 <!-- HARD START -->
 
-| #   | Challenge                                       | Solution                                                            |
-| --- | ----------------------------------------------- | ------------------------------------------------------------------- |
-| 6   | [Simple Vue](https://tsch.js.org/6)             | [6-simple-vue.ts](src/hard/6-simple-vue.ts)                         |
-| 17  | [Currying 1](https://tsch.js.org/17)            | [17-currying-1.ts](src/hard/17-currying-1.ts)                       |
-| 55  | [Union To Intersection](https://tsch.js.org/55) | [55-union-to-intersection.ts](src/hard/55-union-to-intersection.ts) |
-| 57  | [Get Required](https://tsch.js.org/57)          | [57-get-required.ts](src/hard/57-get-required.ts)                   |
-| 59  | [Get Optional](https://tsch.js.org/59)          | [59-get-optional.ts](src/hard/59-get-optional.ts)                   |
-| 89  | [Required Keys](https://tsch.js.org/89)         | [89-required-keys.ts](src/hard/89-required-keys.ts)                 |
-| 90  | [Optional Keys](https://tsch.js.org/90)         | [90-optional-keys.ts](src/hard/90-optional-keys.ts)                 |
-| 112 | [Capitalize Words](https://tsch.js.org/112)     | [112-capitalize-words.ts](src/hard/112-capitalize-words.ts)         |
-| 114 | [Camel Case](https://tsch.js.org/114)           | [114-camel-case.ts](src/hard/114-camel-case.ts)                     |
-| 147 | [C Printf Parser](https://tsch.js.org/147)      | [147-c-printf-parser.ts](src/hard/147-c-printf-parser.ts)           |
-| 213 | [Vue Basic Props](https://tsch.js.org/213)      | [213-vue-basic-props.ts](src/hard/213-vue-basic-props.ts)           |
-| 223 | [Is Any](https://tsch.js.org/223)               | [223-is-any.ts](src/hard/223-is-any.ts)                             |
-| 270 | [Typed Get](https://tsch.js.org/270)            | [270-typed-get.ts](src/hard/270-typed-get.ts)                       |
-| 300 | [String To Number](https://tsch.js.org/300)     | [300-string-to-number.ts](src/hard/300-string-to-number.ts)         |
-| 399 | [Tuple Filter](https://tsch.js.org/399)         | [399-tuple-filter.ts](src/hard/399-tuple-filter.ts)                 |
-| 472 | [Tuple To Enum Object](https://tsch.js.org/472) | [472-tuple-to-enum-object.ts](src/hard/472-tuple-to-enum-object.ts) |
+| #   | Challenge                                        | Solution                                                              |
+| --- | ------------------------------------------------ | --------------------------------------------------------------------- |
+| 6   | [Simple Vue](https://tsch.js.org/6)              | [6-simple-vue.ts](src/hard/6-simple-vue.ts)                           |
+| 17  | [Currying 1](https://tsch.js.org/17)             | [17-currying-1.ts](src/hard/17-currying-1.ts)                         |
+| 55  | [Union To Intersection](https://tsch.js.org/55)  | [55-union-to-intersection.ts](src/hard/55-union-to-intersection.ts)   |
+| 57  | [Get Required](https://tsch.js.org/57)           | [57-get-required.ts](src/hard/57-get-required.ts)                     |
+| 59  | [Get Optional](https://tsch.js.org/59)           | [59-get-optional.ts](src/hard/59-get-optional.ts)                     |
+| 89  | [Required Keys](https://tsch.js.org/89)          | [89-required-keys.ts](src/hard/89-required-keys.ts)                   |
+| 90  | [Optional Keys](https://tsch.js.org/90)          | [90-optional-keys.ts](src/hard/90-optional-keys.ts)                   |
+| 112 | [Capitalize Words](https://tsch.js.org/112)      | [112-capitalize-words.ts](src/hard/112-capitalize-words.ts)           |
+| 114 | [Camel Case](https://tsch.js.org/114)            | [114-camel-case.ts](src/hard/114-camel-case.ts)                       |
+| 147 | [C Printf Parser](https://tsch.js.org/147)       | [147-c-printf-parser.ts](src/hard/147-c-printf-parser.ts)             |
+| 213 | [Vue Basic Props](https://tsch.js.org/213)       | [213-vue-basic-props.ts](src/hard/213-vue-basic-props.ts)             |
+| 223 | [Is Any](https://tsch.js.org/223)                | [223-is-any.ts](src/hard/223-is-any.ts)                               |
+| 270 | [Typed Get](https://tsch.js.org/270)             | [270-typed-get.ts](src/hard/270-typed-get.ts)                         |
+| 300 | [String To Number](https://tsch.js.org/300)      | [300-string-to-number.ts](src/hard/300-string-to-number.ts)           |
+| 399 | [Tuple Filter](https://tsch.js.org/399)          | [399-tuple-filter.ts](src/hard/399-tuple-filter.ts)                   |
+| 472 | [Tuple To Enum Object](https://tsch.js.org/472)  | [472-tuple-to-enum-object.ts](src/hard/472-tuple-to-enum-object.ts)   |
+| 545 | [Printf](https://tsch.js.org/545)                | [545-printf.ts](src/hard/545-printf.ts)                               |
+| 553 | [Deep Object To Unique](https://tsch.js.org/553) | [553-deep-object-to-unique.ts](src/hard/553-deep-object-to-unique.ts) |
 
 <!-- HARD END -->
 
