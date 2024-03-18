@@ -148,6 +148,7 @@ This repository contains solutions I wrote for the purposes of fun and learning 
 | 472 | [Tuple To Enum Object](https://tsch.js.org/472)  | [472-tuple-to-enum-object.ts](src/hard/472-tuple-to-enum-object.ts)   |
 | 545 | [Printf](https://tsch.js.org/545)                | [545-printf.ts](src/hard/545-printf.ts)                               |
 | 553 | [Deep Object To Unique](https://tsch.js.org/553) | [553-deep-object-to-unique.ts](src/hard/553-deep-object-to-unique.ts) |
+| 651 | [Length Of String 2](https://tsch.js.org/651)    | [651-length-of-string-2.ts](src/hard/651-length-of-string-2.ts)       |
 
 <!-- HARD END -->
 
