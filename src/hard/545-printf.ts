@@ -33,7 +33,7 @@ type Format<T extends string> = ArgTypesToFunction<ReversedReplacementTypes<T>>;
 
 type ReversedReplacementTypes<
   T extends string,
-  Acc extends ReplacementType[] = []
+  Acc extends ReplacementType[] = [],
 > = T extends `${string}%${infer RK}${infer Rest}`
   ? ReversedReplacementTypes<
       Rest,
@@ -43,10 +43,10 @@ type ReversedReplacementTypes<
 
 type ArgTypesToFunction<
   ReversedArgTypes extends ReplacementType[],
-  Acc = string
+  Acc = string,
 > = ReversedArgTypes extends [
   infer ArgType extends ReplacementType,
-  ...infer Rest extends ReplacementType[]
+  ...infer Rest extends ReplacementType[],
 ]
   ? ArgTypesToFunction<Rest, (arg: ArgType) => Acc>
   : Acc;
@@ -69,7 +69,7 @@ type cases = [
   Expect<Equal<case4, string>>,
   Expect<Equal<case5, (d1: number) => string>>,
   Expect<Equal<case6, (d1: number) => (s1: string) => string>>,
-  Expect<Equal<case7, (d1: number) => (s1: string) => (s2: string) => string>>
+  Expect<Equal<case7, (d1: number) => (s1: string) => (s2: string) => string>>,
 ];
 
 /* _____________ Further Steps _____________ */
