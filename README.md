@@ -149,6 +149,8 @@ This repository contains solutions I wrote for the purposes of fun and learning 
 | 545 | [Printf](https://tsch.js.org/545)                | [545-printf.ts](src/hard/545-printf.ts)                               |
 | 553 | [Deep Object To Unique](https://tsch.js.org/553) | [553-deep-object-to-unique.ts](src/hard/553-deep-object-to-unique.ts) |
 | 651 | [Length Of String 2](https://tsch.js.org/651)    | [651-length-of-string-2.ts](src/hard/651-length-of-string-2.ts)       |
+| 730 | [Union To Tuple](https://tsch.js.org/730)        | [730-union-to-tuple.ts](src/hard/730-union-to-tuple.ts)               |
+| 847 | [String Join](https://tsch.js.org/847)           | [847-string-join.ts](src/hard/847-string-join.ts)                     |
 
 <!-- HARD END -->
 
