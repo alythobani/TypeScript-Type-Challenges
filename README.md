@@ -151,6 +151,7 @@ This repository contains solutions I wrote for the purposes of fun and learning 
 | 651 | [Length Of String 2](https://tsch.js.org/651)    | [651-length-of-string-2.ts](src/hard/651-length-of-string-2.ts)       |
 | 730 | [Union To Tuple](https://tsch.js.org/730)        | [730-union-to-tuple.ts](src/hard/730-union-to-tuple.ts)               |
 | 847 | [String Join](https://tsch.js.org/847)           | [847-string-join.ts](src/hard/847-string-join.ts)                     |
+| 956 | [Deep Pick](https://tsch.js.org/956)             | [956-deep-pick.ts](src/hard/956-deep-pick.ts)                         |
 
 <!-- HARD END -->
 
